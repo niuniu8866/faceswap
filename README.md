@@ -1,11 +1,7 @@
 **Notice:** This repository is not operated or maintained by [/u/deepfakes](https://www.reddit.com/user/deepfakes/). Please read the explanation below for details.
 
 ---
-
-# deepfakes_faceswap
-Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
-
-## Overview
+# Overview
 The project has multiple entry points. You will have to:
  - Gather photos (or use the one provided in the training data provided below)
  - **Extract** faces from your raw photos
